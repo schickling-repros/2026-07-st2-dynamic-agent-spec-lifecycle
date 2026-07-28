@@ -53,4 +53,8 @@ observable desired-versus-running generation.
 
 ## Related issues
 
-To be added after filing.
+- [compoundingtech/st2#39 — Folder catalogs discover spec-shaped resource JSON as phantom agents](https://github.com/compoundingtech/st2/issues/39)
+- [compoundingtech/st2#40 — Expose desired versus observed launch generation for adopted tasks](https://github.com/compoundingtech/st2/issues/40)
+- [compoundingtech/st2#41 — Proposal: exact-byte CAS publication for canonical Agent Specs](https://github.com/compoundingtech/st2/issues/41)
+- [compoundingtech/st2#42 — Proposal: safely unpublish an Agent Spec only after retirement completes](https://github.com/compoundingtech/st2/issues/42)
+- [compoundingtech/evals#37 — Specify and evaluate transactional publication of canonical Agent Specs](https://github.com/compoundingtech/evals/issues/37)
